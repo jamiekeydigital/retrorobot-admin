@@ -1,0 +1,5 @@
+/oldadmin
+/roms
+/systems/*
+!/systems/noimage.jpg
+retrorobot.sqlite

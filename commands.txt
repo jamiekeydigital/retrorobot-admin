@@ -1,0 +1,8 @@
+"C:\Games\Future Pinball\BAM\FPLoader.exe" /open "C:\xampp\htdocs\roms\pinball\Doctor Who BETA.fpt" /play /exit
+
+C:\Games\RetroArch-Win64\retroarch.exe -L "C:\Games\RetroArch-Win64\cores\stella_libretro.dll"  "C:\xampp\htdocs\roms\atari2600\Pitfall.a26"
+
+C:\Games\RetroArch-Win64\retroarch.exe -L "C:\Games\RetroArch-Win64\cores\snes9x2010_libretro.dll"  "C:\xampp\htdocs\roms\snes\Donkey Kong Country.smc"
+
+C:\Games\RetroArch-Win64\retroarch.exe --config "C:\Games\RetroArch-Win64\config\jamie.cfg" --appendconfig "C:\xampp\htdocs\overlays\snes_1.cfg" -L "C:\Games\RetroArch-Win64\cores\snes9x2010_libretro.dll"  "C:\xampp\htdocs\roms\snes\Donkey Kong Country.smc"
+
