@@ -140,7 +140,7 @@ if (!class_exists('key_dblite')) {
     }
 
     /*-----*/
-    public static function openQuery($sql){
+    public static function openQuery($sql) {
       self::closeQuery();
   
       if ($sql == '') {

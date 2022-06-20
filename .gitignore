@@ -1,5 +1,5 @@
 /oldadmin
 /roms
-/systems/*
-!/systems/noimage.jpg
+/overlays/*
+!/overlays/noimage.jpg
 retrorobot.sqlite
